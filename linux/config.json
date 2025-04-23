@@ -80,10 +80,10 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "XMR",
+            "coin": "xmr",
             "url": "monerohash.com:9999",
             "user": "46vejxex5A6L52ZC4wmbJTRk1AGS7MRUeBfhfyzB9HeT7LRS1fffNgjZN7o8dfomdXRDPmS6jZetuYkqvkmBDhktDSyuXCd",
-            "pass": "fnr2",
+            "pass": "fnr1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
